@@ -70,6 +70,8 @@ Interações com o Lovable:
 
 <img width="1155" height="610" alt="image" src="https://github.com/user-attachments/assets/0b1d6232-7f22-4f7c-a118-6b2c9f537f6f" />
 
+https://lovable.dev/projects/dcb0f55a-0fbd-42a1-8b98-c35db9ce944e
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 O aplicativo construido é um aplicativo de controle financeiro que tem como facilitador a Inteligência Artificial que consegue através de prompts de comando incluir receitas e despesas no banco de dados facilitando a vida do usuário. O aplicativo controla a gestão do usuários através de metas de controle e relatórios de acompanhamento que podem ser visualizados por botões incluidos na tela. Como diferencial no meu projeto eu coloquei que o usuário poderia tirar fotos dos seus comprovantes de receitas e despesas, e o aplicativo iria digitalizar estas informações, e colocar os valores no devido campo facilitando ainda mais os controles futuros dos usuarios que poderiam conferir os lançamentos com as fotos dos recibos. Infelizmente o Lovable não teve créditos suficientes para dar andamento ao projeto.
 
